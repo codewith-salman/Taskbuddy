@@ -20,8 +20,6 @@ It helps users efficiently manage their daily tasks with a simple, modern, and r
 It’s designed with smooth animations, responsive layouts, and intuitive controls to make task management enjoyable.  
 Perfect for anyone who wants to stay organized — from students to professionals.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ### ✨ Features
@@ -32,7 +30,6 @@ Perfect for anyone who wants to stay organized — from students to professional
 - Responsive and modern UI  
 - Smooth transitions and intuitive layout  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -42,7 +39,6 @@ Perfect for anyone who wants to stay organized — from students to professional
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
