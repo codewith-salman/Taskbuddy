@@ -4,7 +4,7 @@
 <div align="center">
 
 ## ✅ TaskBuddy Todo List  
-A clean and interactive **TaskBuddy Todo List App** built using HTML, CSS, and JavaScript.  
+A clean and interactive **TaskBuddy Todo List App** built using HTML, CSS, and JS.  
 It helps users efficiently manage their daily tasks with a simple, modern, and responsive interface.
 
 </div>
